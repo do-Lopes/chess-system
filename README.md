@@ -6,6 +6,10 @@ Study project made with help of a Java programming course
 #### ✅ Moving pieces
 #### ✅ Handling exceptions
 #### ✅ Printing possible moves
-#### ⏳ Switch player each turn
-#### ❌ Handling captured pieces
+#### ✅ Switch player each turn
+#### ✅ Handling captured pieces
+#### ✅ Undo move
+#### ✅ Winning condition
+#### ⏳ Pawn, bishop, knight and queen
+#### ❌ Special moves
  
