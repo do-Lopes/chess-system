@@ -31,9 +31,6 @@ public class Position {
     }
     @Override
     public java.lang.String toString() {
-        return "Position{" +
-                "row=" + row +
-                ", column=" + column +
-                '}';
+        return row + ", " + column;
     }
 }
