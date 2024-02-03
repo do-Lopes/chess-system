@@ -10,6 +10,8 @@ Study project made with help of a Java programming course
 #### ✅ Handling captured pieces
 #### ✅ Undo move
 #### ✅ Winning condition
-#### ⏳ Pawn, bishop, knight and queen
-#### ❌ Special moves
+#### ✅ Pawn, bishop, knight and queen
+#### ✅ Special moves
+#### ✅ Promotion
+#### 🏆 Project complete
  
